@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+ <title>高専祭 2E</title>
+ <link rel="stylesheet" href="file:///C:/Users/yukiy/Googleドライブ/2年/高専祭/testindex.css">
+ </head>
+ <body>
+<h1>2年Eコース　プラネタリウム</h1>
+<h2>星座</h2>
+<h3><p>画像の表示</p></h3>
+
+    <script>
+    var img;
+
+    function sampleimg1(){
+    img = document.getElementById("image_file");
+    img.src = "file:///C:/Users/yukiy/Googleドライブ/2年/高専祭/かに座.png";
+    var text_file = "かに座";
+    document.getElementById("text_file").textContent = text_file;
+    }
+
+function sampleimg2(){
+    img = document.getElementById("image_file");
+    img.src = "";
+    var text_file = "";
+　　document.getElementById("text_file").textContent = text_file;
+    }
+    </script>
+    <dev><h4>
+    <input type="button" onclick="sampleimg1()" value="画像を表示">
+    <input type="button" onclick="sampleimg2()" value="閉じる"></h4><br><br>
+    <p1 id="text_file"></p1><br>
+    <img id="image_file"src=""
+    alt
+    onerror="this.onerror = null; this.src='';"
+    />
+    <br><br>
+</div>
+</body>
+</html>

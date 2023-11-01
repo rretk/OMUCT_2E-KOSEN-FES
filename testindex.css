@@ -1,0 +1,47 @@
+body {
+  font-family: メイリオ,meiryo,sans-serif;
+  background: #003;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 15px;
+  border-block: 6px solid #000080;
+  border-inline: 6px solid #000080;
+}
+h1 {
+  border-radius: 5px;
+  background: #0000ea;
+  padding: 10px;
+  -webkit-text-stroke: 1px #FFF;
+  text-stroke: 1px #FFF;
+}
+h2 {
+  border-radius: 5px;
+  background: #0000e0;
+  padding: 10px;
+  -webkit-text-stroke: 0.5px #FFF;
+  text-stroke: 1px #FFF;
+}
+h3 {
+  border-radius: 5px;
+  background: #0011da;
+  padding: 10px 10px;
+  -webkit-text-stroke: 0.5px #FFF;
+  text-stroke: 1px #FFF;
+}
+h4 {
+  border-radius: 5px;
+  background: #0033d0;
+  padding: 10px 10px;
+}
+p1 {
+  -webkit-text-stroke: 0.5px #FFF;
+  text-stroke: 1px #FFF;
+  font-weight: bold;
+  font-size: 150%;
+  margin: 10px 5px 10px;
+  padding: 10px;
+}
+div {
+  padding: 0px 0px;
+  margin: 0px 0px;
+}
