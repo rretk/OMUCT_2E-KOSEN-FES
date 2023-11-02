@@ -14,7 +14,7 @@ h1 {
   background: #0000ea;
   margin: 5px 5px;
   padding: 10px;
-  -webkit-text-stroke: 1px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
 }
 h2 {
