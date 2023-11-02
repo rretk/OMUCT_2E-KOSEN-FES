@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="ja">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="ja">
  <head>
  <title>高専祭 2E</title>
  <link rel="stylesheet" href="index.css">
  </head>
  <body>
-<h1>2年Eコース<br>プラネタリウム</h1>
+<h1>2年Eコース　プラネタリウム</h1>
 <h2>星座</h2>
 <h3>画像の表示</h3>
 <h4>
@@ -20,18 +20,26 @@
     document.getElementById("text_file").textContent = text_file;
     }
 
-function sampleimg2(){
+    function sampleimg2(){
+    img = document.getElementById("image_file");
+    img.src = "冬の星座.png";
+    var text_file = "冬の星座";
+    document.getElementById("text_file").textContent = text_file;
+    }
+
+function sampleimg3(){
     img = document.getElementById("image_file");
     img.src = "";
     var text_file = "";
 　　document.getElementById("text_file").textContent = text_file;
     }
     </script>
-    <input type="button" onclick="sampleimg1()" value="画像を表示">
-    <input type="button" onclick="sampleimg2()" value="閉じる"><br>
+    <input type="button" onclick="sampleimg1()" value="夏の星座">
+    <input type="button" onclick="sampleimg2()" value="冬の星座">
+    <input type="button" onclick="sampleimg3()" value="閉じる"><br>
     <p1 id="text_file"></p1><br>
     <p class="resizeimage">
-     <img id="image_file"src="" alt onerror="this.onerror = null; this.src='';"/>
+    <img id="image_file"src="" scale=50% alt onerror="this.onerror = null; this.src='';"/>
     </p>
  </h4>
 </body>
