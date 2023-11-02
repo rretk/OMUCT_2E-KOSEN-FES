@@ -37,7 +37,7 @@ h4 {
   border-radius: 5px;
   background: #0033d0;
   margin: 10px 5px;
-  padding: 10px 10px;
+  padding: 10px 10px 10px;
 }
 p1 {
   text-align: center;
@@ -46,6 +46,7 @@ p1 {
   font-size: 100%;
 }
 p {
+  text-align: center;
   padding: 0 10px;
 }
 .resizeimage img {
@@ -54,6 +55,7 @@ p {
 input[type="button"] {
   background: #aaf;
   border-radius: .8em 0 .8em 0;
+  margin: 10px 0px 10px;
   padding: 5px 10px;
   text-align: center;
   font-weight: bold;
@@ -64,6 +66,7 @@ input[type="button"] {
 @media screen and (max-width:600px) {
 
 body {
+  text-align: center;
   font-size: 150%;
   font-family: meiryo,sans-serif;
   background: #003;
@@ -109,12 +112,10 @@ p1 {
   -webkit-text-stroke: 1px #ddF;
   font-weight: bold;
   font-size: 100%;
-}
+} 
 p {
+  text-align: center;
   padding: 0 10px;
-}
-.resizeimage img {
-  width: 100%;
 }
 input[type="button"] {
   background: #aaf;
