@@ -61,7 +61,6 @@ input[type="button"] {
 @media screen and (max-width:600px) {
 
 body {
-  text-align: center;
   font-size: 150%;
   font-family: meiryo,sans-serif;
   background: #003;
