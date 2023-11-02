@@ -40,6 +40,9 @@ h4 {
   padding: 10px 10px;
   -webkit-text-stroke: .01px #ddF;
 }
+a {
+  -webkit-text-stroke: .01px #ddF;
+}
 p1 {
   text-align: center;
   -webkit-text-stroke: .01px #ddF;
@@ -107,7 +110,10 @@ h4 {
   background: #0022d0;
   margin: 10px 5px;
   padding: 10px 10px;
-  -webkit-text-stroke: .01px #ddF;
+  -webkit-text-stroke: 1px #ddF;
+}
+a {
+  -webkit-text-stroke: 1px #ddF;
 }
 p1 {
   text-align: center;
