@@ -53,6 +53,9 @@ p1 {
   font-weight: bold;
   font-size: 100%;
 }
+.resizeimage img {
+  width: 100%;
+}
 input[type="button"] {
   background: #aaf;
   border-radius: .8em 0 .8em 0;
