@@ -32,6 +32,14 @@ h3 {
   padding: 10px 10px;
   -webkit-text-stroke: .01px #ddF;
 }
+h4 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0022d0;
+  margin: 10px 5px;
+  padding: 10px 10px;
+  -webkit-text-stroke: .01px #ddF;
+}
 p1 {
   text-align: center;
   -webkit-text-stroke: .01px #ddF;
@@ -92,6 +100,14 @@ h3 {
   margin: 10px 5px;
   padding: 10px 10px;
   -webkit-text-stroke: 1px #ddF;
+} 
+h4 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0022d0;
+  margin: 10px 5px;
+  padding: 10px 10px;
+  -webkit-text-stroke: .01px #ddF;
 }
 p1 {
   text-align: center;
