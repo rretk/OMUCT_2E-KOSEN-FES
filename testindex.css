@@ -1,6 +1,72 @@
 body {
   text-align: center;
-  font-family: メイリオ,meiryo,sans-serif;
+  font-family: ãƒ¡ã‚¤ãƒªã‚ª,meiryo,sans-serif;
+  background: #003;
+  margin: 5px;
+  padding: 5px 10px;
+  border-radius: 15px;
+  border-block: 6px solid #000080;
+  border-inline: 6px solid #000080;
+}
+h1 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0000ea;
+  margin: 5px 5px;
+  padding: 10px;
+  -webkit-text-stroke: 1px #ddF;
+  text-stroke: 1px #FFF;
+}
+h2 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0000e0;
+  margin: 10px 5px;
+  padding: 10px;
+  -webkit-text-stroke: 0.5px #ddF;
+  text-stroke: 1px #FFF;
+}
+h3 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0011da;
+  margin: 10px 5px;
+  padding: 10px 10px;
+  -webkit-text-stroke: 0.5px #ddF;
+  text-stroke: 1px #FFF;
+}
+h4 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0033d0;
+  margin: 10px 5px;
+  padding: 10px 10px;
+}
+h5 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0033d0;
+  margin: 10px 5px;
+  padding: 10px 10px;
+}
+p1 {
+  text-align: center;
+  -webkit-text-stroke: 0.5px #ddF;s
+  text-stroke: 1px #FFF;
+  font-weight: bold;
+  font-size: 150%;
+}
+p2 {
+  font-weight: bold;
+  font-size: 150%;
+}
+
+@media screen and (max-width:600px) {
+
+body {
+  text-align: center;
+  font-size: 300%;
+  font-family: ãƒ¡ã‚¤ãƒªã‚ª,meiryo,sans-serif;
   background: #003;
   margin: 5px;
   padding: 5px 10px;
@@ -59,4 +125,6 @@ p1 {
 p2 {
   font-weight: bold;
   font-size: 150%;
+}
+
 }
