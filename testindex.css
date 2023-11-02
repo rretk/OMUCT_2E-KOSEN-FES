@@ -23,7 +23,7 @@ h2 {
   background: #0000e0;
   margin: 10px 5px;
   padding: 10px;
-  -webkit-text-stroke: 0.5px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
 }
 h3 {
@@ -32,7 +32,7 @@ h3 {
   background: #0011da;
   margin: 10px 5px;
   padding: 10px 10px;
-  -webkit-text-stroke: 0.5px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
 }
 h4 {
@@ -51,7 +51,7 @@ h5 {
 }
 p1 {
   text-align: center;
-  -webkit-text-stroke: 0.5px #ddF;s
+  -webkit-text-stroke: 0.1px #ddF;s
   text-stroke: 1px #FFF;
   font-weight: bold;
   font-size: 150%;
@@ -80,7 +80,7 @@ h1 {
   background: #0000ea;
   margin: 5px 5px;
   padding: 10px;
-  -webkit-text-stroke: 1px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
 }
 h2 {
@@ -89,7 +89,7 @@ h2 {
   background: #0000e0;
   margin: 10px 5px;
   padding: 10px;
-  -webkit-text-stroke: 0.5px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
 }
 h3 {
@@ -98,7 +98,7 @@ h3 {
   background: #0011da;
   margin: 10px 5px;
   padding: 10px 10px;
-  -webkit-text-stroke: 0.5px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
 }
 h4 {
@@ -117,7 +117,7 @@ h5 {
 }
 p1 {
   text-align: center;
-  -webkit-text-stroke: 0.5px #ddF;
+  -webkit-text-stroke: 0.1px #ddF;
   text-stroke: 1px #FFF;
   font-weight: bold;
   font-size: 150%;
