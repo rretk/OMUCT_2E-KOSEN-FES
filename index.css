@@ -124,6 +124,7 @@ input[type="button"] {
   background: #aaf;
   border-radius: .8em 0 .8em 0;
   padding: 5px 10px;
+  margin: 0 0 10px;
   text-align: center;
   font-weight: bold;
   font-size: 100%;
