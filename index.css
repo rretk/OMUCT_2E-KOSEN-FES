@@ -45,6 +45,9 @@ p1 {
   font-weight: bold;
   font-size: 100%;
 }
+p {
+  padding: 0 10px;
+}
 .resizeimage img {
   width: 100%;
 }
@@ -106,7 +109,10 @@ p1 {
   -webkit-text-stroke: 1px #ddF;
   font-weight: bold;
   font-size: 100%;
-}  
+}
+p {
+  padding: 0 10px;
+}
 .resizeimage img {
   width: 100%;
 }
