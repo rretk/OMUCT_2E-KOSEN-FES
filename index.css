@@ -40,13 +40,6 @@ h4 {
   margin: 10px 5px;
   padding: 10px 10px;
 }
-h5 {
-  text-align: center;
-  border-radius: 5px;
-  background: #0033d0;
-  margin: 10px 5px;
-  padding: 10px 10px;
-}
 p1 {
   text-align: center;
   -webkit-text-stroke: .01px #ddF;
@@ -110,18 +103,14 @@ h4 {
   margin: 10px 5px;
   padding: 10px 10px;
 }
-h5 {
-  text-align: center;
-  border-radius: 5px;
-  background: #0033d0;
-  margin: 10px 5px;
-  padding: 10px 10px;
-}
 p1 {
   text-align: center;
   -webkit-text-stroke: 1px #ddF;
   font-weight: bold;
   font-size: 100%;
+}  
+.resizeimage img {
+  width: 100%;
 }
 input[type="button"] {
   background: #aaf;
