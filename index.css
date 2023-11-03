@@ -34,7 +34,7 @@ h3 {
   padding: 10px 10px;
   -webkit-text-stroke: 1px #ddF;
 }
-h4 {
+h4 a1 {
   text-align: center;
   border-radius: 5px;
   background: #0022d0;
@@ -42,7 +42,7 @@ h4 {
   padding: 10px 10px;
   -webkit-text-stroke: 1px #ddF;
 }
-h5 {
+h4 a2 {
   text-align: center;
   border-radius: 5px;
   background: #0033ca;
@@ -115,7 +115,7 @@ h3 {
   padding: 10px 10px;
   -webkit-text-stroke: 1px #ddF;
 } 
-h4 {
+h4 a1 {
   text-align: center;
   border-radius: 5px;
   background: #0022d0;
@@ -123,7 +123,7 @@ h4 {
   padding: 10px 10px;
   -webkit-text-stroke: 1px #ddF;
 }
-h5 {
+h4 a2 {
   text-align: center;
   border-radius: 5px;
   background: #0033ca;
