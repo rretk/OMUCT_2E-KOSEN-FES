@@ -42,6 +42,14 @@ h4 {
   padding: 10px 10px;
   -webkit-text-stroke: 1px #ddF;
 }
+h5 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0033ca;
+  margin: 10px 5px;
+  padding: 10px;
+  -webkit-text-stroke: 1px #ddF;
+}
 a {
   -webkit-text-stroke: 1px #ddF;
 }
@@ -113,6 +121,14 @@ h4 {
   background: #0022d0;
   margin: 10px 5px;
   padding: 10px 10px;
+  -webkit-text-stroke: 1px #ddF;
+}
+h5 {
+  text-align: center;
+  border-radius: 5px;
+  background: #0033ca;
+  margin: 10px 5px;
+  padding: 10px;
   -webkit-text-stroke: 1px #ddF;
 }
 a {
